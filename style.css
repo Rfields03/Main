@@ -39,7 +39,7 @@ span {
 
 .header .name-logo a {
     text-decoration: none;
-    color:#F5F5DC;
+    color:#f44336;
 }
 
 .navbar ul {
@@ -65,7 +65,7 @@ span {
     content: "";
     width: 0%; /*to hide the lines */
     height: 2px; 
-    background-color:#f44336 ;
+    background-color:#f44336;
 /*    #FFDE2B #F5F5DC*/
     display: block;
     margin: auto;

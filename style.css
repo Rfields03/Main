@@ -1,7 +1,7 @@
 body, html {
     margin: 0;
     padding: 0;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Tahoma', sans-serif;
     font-size: 16px;
     height: 100%;
     box-sizing: border-box;
@@ -12,7 +12,7 @@ body, html {
 .header {
     width: 100%;
     height: 80px;
-    background-color: #105378;
+    background-color: blue;
     position: fixed;
     z-index: 10;
     display: flex;
@@ -32,7 +32,7 @@ body, html {
 }
 
 span {
-    color: #FFDE2B;
+    color: orange;
     letter-spacing: 0;
     font-weight: 800;
 }
@@ -54,7 +54,7 @@ span {
 
 .navbar ul li a {
     text-decoration: none;
-    color:bisque;
+    color:white;
     font-size: 1.250rem;
     letter-spacing: 5px;
     
@@ -162,7 +162,7 @@ span {
     width: 100%;
     display: flex;
     justify-content: space-evenly;
-    background-color: #FFE4C4 ;
+    background-color: gray;
     border-radius: 10px;
     max-width: 1200px;
     align-items: center;
@@ -182,17 +182,17 @@ span {
 }
 
 .about-info h2 {
-    color: #105378;
+    color: white;
     font-weight: 800;
 }
 
 .about-info h3 {
     font-style: oblique;
-    color: #105378;
+    color: white;
     font-weight: 400;
 }
 .about-info p {
-    color: #333;
+    color: whitesmoke;
     font-size: 1rem;
     line-height: 24px;
     font-weight: 400;

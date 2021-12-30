@@ -32,14 +32,14 @@ body, html {
 }
 
 span {
-    color: orange;
+    color:#f44336 ;
     letter-spacing: 0;
     font-weight: 800;
 }
 
 .header .name-logo a {
     text-decoration: none;
-    color:#f44336;
+    color:white;
 }
 
 .navbar ul {
@@ -65,7 +65,7 @@ span {
     content: "";
     width: 0%; /*to hide the lines */
     height: 2px; 
-    background-color:#f44336;
+    background-color:#f44336 ;
 /*    #FFDE2B #F5F5DC*/
     display: block;
     margin: auto;
@@ -188,11 +188,11 @@ span {
 
 .about-info h3 {
     font-style: oblique;
-    color: white;
+    color:white;
     font-weight: 400;
 }
 .about-info p {
-    color: whitesmoke;
+    color: white;
     font-size: 1rem;
     line-height: 24px;
     font-weight: 400;
@@ -341,8 +341,8 @@ transform: scale(1.2);
 }
 
 .details button:hover {
-    background-color: #FFDE2B;
-    color: black;
+    background-color: #f44336;
+    color: White;
 }
 
 /* media query header content re-adjusted for smaller screen*/
@@ -445,7 +445,7 @@ transform: scale(1.2);
 
 .contact-page p {
     font-size: 1.5rem;
-    color: #333;
+    color: white;
     font-weight: 600;
 }
 
@@ -488,13 +488,6 @@ transform: scale(1.2);
 footer {
 
     text-align: center;
-}
-
-
-.fa-heart {
-    color:#FFDE2B;
-    
-
 }
 
 footer p {
